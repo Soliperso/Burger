@@ -1,3 +1,3 @@
 ## Burger App
 
-![movie]('screenshots/burger.jpg')
+![movie](screenshots/burger.jpg)
